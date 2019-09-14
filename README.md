@@ -18,4 +18,3 @@ git clone https://github.com/contentful/boilerplate-javascript.git
 ```shell
 npm install && npm start
 ```
-# contentful-boilerplate
